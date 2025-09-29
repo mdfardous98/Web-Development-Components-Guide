@@ -9,7 +9,7 @@ A collection of reusable HTML, CSS, and JavaScript components.
 | No. | Component | Demo | Source |
 |-----|-----------|------|--------|
 | 
-| 01 | Navbar    | [Live](./01-navbar/navbar.html) | [Source](./002-navbar) |
+| 01 | Navbar    | [Live](https://mdfardous98.github.io/Web-Development-Components-Guide/01-navbar/navbar.html) | [Source](./01-navbar) |
 |02  |           |                                 |                        |
 |03  |           |                                 |                        |
 |04  |           |                                 |                        |
